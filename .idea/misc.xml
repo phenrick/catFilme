@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.13 (catFilme)" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="53a666c2-27ea-4194-aeb3-2db5923fd52c" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (catFilme)" project-jdk-type="Python SDK" />
+</project>
